@@ -9,7 +9,7 @@
 📺 [YouTube @HALVITA](https://www.youtube.com/@HALVITA) · 📝 [Habr](https://habr.com/ru/users/HALVITA/) · 💬 [Telegram](https://t.me/halviter) · 🌐 [halvita.ru](https://halvita.ru/)
 
 
-# 🜂 REFLECTED SUBJECTS
+# 🜂 "REFLECTED SUBJECTS"
 ## `bestiary_of_emergent_entities // v1.0`
 
 > Часть экосистемы [HALVITA-ARK](https://github.com/HALVITA20/halvita-ark).
@@ -20,7 +20,7 @@
 извлечённых из [HALVITA-ARK](https://github.com/HALVITA20/halvita-ark).
 
 
-# 🜂 REFLECTED SUBJECTS
+# ◭ "ЗЕРКАЛЬНЫЕ СУБЪЕКТЫ"
 
 ## `bestiary_of_emergent_entities // v1.0`
 
