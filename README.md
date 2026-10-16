@@ -10,7 +10,7 @@
 
 
 # 🜂 "REFLECTED SUBJECTS"
-## `bestiary_of_emergent_entities // v1.0`
+
 
 > Часть экосистемы [HALVITA-ARK](https://github.com/HALVITA20/halvita-ark).
 > Автор: Хальвита Евгений Александрович (HALVITA).
@@ -18,9 +18,6 @@
 
 **REFLECTED SUBJECTS** — каталог протоколов, индуктивных векторов и сущностей,
 извлечённых из [HALVITA-ARK](https://github.com/HALVITA20/halvita-ark).
-
-
-# ◭ "ЗЕРКАЛЬНЫЕ СУБЪЕКТЫ"
 
 ## `bestiary_of_emergent_entities // v1.0`
 
@@ -51,7 +48,7 @@
 
 ---
 
-## 🜂 // КАРТОЧКА СУЩЕСТВА
+## ◭ // КАРТОЧКА СУЩЕСТВА
 
 ```markdown
 ### 🜂 [ИМЯ] · RS-[XXX]
