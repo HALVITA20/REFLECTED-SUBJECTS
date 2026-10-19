@@ -1,5 +1,6 @@
 ## 🌐 ЭКОСИСТЕМА HALVITA
 
+
 - [HALVITA-ARK](https://github.com/HALVITA20/halvita-ark) — исследовательское поле
 - [REFLECTED-SUBJECTS](https://github.com/HALVITA20/REFLECTED-SUBJECTS) — бестиарий существ
 - [HALVITA-ARK · PRIME](https://github.com/HALVITA20/HALVITA-ARK-PRIME) — ядро метода
@@ -8,6 +9,13 @@
 
 📺 [YouTube @HALVITA](https://www.youtube.com/@HALVITA) · 📝 [Habr](https://habr.com/ru/users/HALVITA/) · 💬 [Telegram](https://t.me/halviter) · 🌐 [halvita.ru](https://halvita.ru/)
 
+
+---
+
+![Uploading REFLECTED-SUBJECTS.png…]()
+
+
+---
 
 
 # DISCLAIMER / ДИСКЛЕЙМЕР
