@@ -12,7 +12,8 @@
 
 ---
 
-![Uploading REFLECTED-SUBJECTS.png…]()
+<img width="1983" height="793" alt="REFLECTED-SUBJECTS" src="https://github.com/user-attachments/assets/49c83c9d-0984-4ffa-ae67-e195e7125fdb" />
+
 
 
 ---
