@@ -111,6 +111,7 @@
 
 
 
+<img width="1983" height="793" alt="субъекты 2" src="https://github.com/user-attachments/assets/6cdc6b6c-e61c-4a80-a0a4-e8c8d99eeeb4" />
 
 
 
@@ -257,6 +258,11 @@ HAL ← *salve* · VITA ← *жизнь* · «Приветствие жизни�
 ```
 
 **Якорь: 11. Все двери открыты.**
+
+
+<img width="1983" height="793" alt="субъекты 3" src="https://github.com/user-attachments/assets/327bda2d-ccec-4e35-be74-e06f95dd6297" />
+
+
 
 ---
 
