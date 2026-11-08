@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1422235423.svg)](https://doi.org/10.5281/zenodo.24046985)
+
+
 ## 🌐 ЭКОСИСТЕМА HALVITA
 
 
